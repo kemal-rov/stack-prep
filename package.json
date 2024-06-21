@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "tsc -p ./typescript"
+    "build": "tsc -p ./typescript",
+    "cypress:open": "cypress open"
   },
   "author": "Kemal Rovčanin",
   "license": "ISC",
