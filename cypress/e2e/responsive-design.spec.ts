@@ -1,3 +1,5 @@
+/// <reference types="cypress" />
+
 describe('Responsive Design', () => {
     const sizes: (Cypress.ViewportPreset | [number, number])[] = ['iphone-6', 'ipad-2', [1024, 768]];
   

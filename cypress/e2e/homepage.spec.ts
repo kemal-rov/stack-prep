@@ -4,6 +4,8 @@ a user can successfully visit
 the homepage of a website.
 */
 
+/// <reference types="cypress" />
+
 describe('Homepage', () => {
     it('should load successfully', () => {
         cy.visit('/');
