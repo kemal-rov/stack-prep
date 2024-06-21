@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc -p ./typescript"
   },
-  "author": "Kemal Rovcanin",
+  "author": "Kemal Rovčanin",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.14.6",
