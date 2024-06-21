@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "A central location for all the materials and projects I work on as part of my expertise refreshment learning plan.",
   "main": "index.js",
-  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc -p ./typescript"
@@ -12,6 +11,7 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.14.6",
+    "cypress": "^13.12.0",
     "typescript": "^5.4.5"
   }
 }
